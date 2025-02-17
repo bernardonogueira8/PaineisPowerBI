@@ -2,7 +2,9 @@
 
 Este projeto foi arquivado em decorrência da criação de um novo projeto desenvolvido com Laravel e Filament 3.
 
-🔗 Acesse o novo projeto em: [bn.is-local.org/cards](https://bn.is-local.org/cards)
+🔗 Acesse o projeto GitHub: [Portifolio_Laravel](https://github.com/bernardonogueira8/portifolio_Laravel)
+
+🔗 Acesse o novo projeto em: [bn.is-local.org](https://bn.is-local.org/cards)
 
 ## 📌 Informações
 
